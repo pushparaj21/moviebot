@@ -1,10 +1,18 @@
 import React from "react";
-import { Text, View } from "react-native";
+import { Image, View } from "react-native";
 
-export default function save() {
+import { images } from "@/constants/images";
+
+const Save = () => {
   return (
-    <View>
-      <Text>save</Text>
+    <View className="flex-1 bg-primary">
+      <Image
+        source={images.bg}
+        className="flex-1 absolute w-full z-0"
+        resizeMode="cover"
+      />
     </View>
   );
-}
+};
+
+export default Save;
