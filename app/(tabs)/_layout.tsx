@@ -15,6 +15,7 @@ export default function TabsLayout() {
           alignItems: "center",
         },
         tabBarStyle: {
+          position: "absolute",
           backgroundColor: "#0f0D23",
           borderRadius: 50,
           marginHorizontal: 20,
