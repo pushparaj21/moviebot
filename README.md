@@ -15,7 +15,7 @@ MovieBot is a modern, visually appealing movie discovery app built with Expo and
 <p align="center">
    <img src="assets/images/home.png" width="200"/>
    <img src="assets/images/search.png" width="200"/>
-   <img src="assets/readmeImg/detail.png" width="200"/> 
+   <img src="assets/images/detail.png" width="200"/> 
 </p>
 
 
